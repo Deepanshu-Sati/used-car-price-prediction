@@ -4,6 +4,12 @@ Machine learning project for predicting the selling price of used cars using mul
 
 ---
 
+## Project Preview
+
+![Project Preview](project_preview.png)
+
+---
+
 ## Project Overview
 
 The goal of this project is to build a machine learning model that can accurately predict the selling price of used cars based on features such as car brand, model, year, fuel type, transmission type, kilometers driven, and ownership history.
