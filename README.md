@@ -132,5 +132,5 @@ Possible improvements to this project include:
 4. Testing additional regression algorithms
 
 
-Author
+Author: 
 Deepanshu Sati
